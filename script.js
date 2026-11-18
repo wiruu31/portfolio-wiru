@@ -90,6 +90,15 @@ const PROJECTS = [
     status: "selesai",
     link: "https://github.com/wiruu31/nexus-hub.git",
     unggulan: true
+  },
+  {
+    judul: "Vault Keep",
+    deskripsi: "Password manager pribadi.",
+    kategori: "Web App,",
+    tags: ["HTML", "CSS", "JavaScript", "Data"],
+    status: "selesai",
+    link: "https://github.com/wiruu31/vault-keep.git",
+    unggulan: true
   }
 ];
 
