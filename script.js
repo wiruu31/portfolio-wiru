@@ -49,6 +49,7 @@ const PROJECTS = [
     tags: ["HTML", "CSS", "JavaScript", "Web App", "Data"],
     status: "selesai",
     link: "https://wiruu31.github.io/personal-finance-tracker/keuangan.html",
+    unggulan: true
   },
   {
     judul: "Fret Lab",
@@ -69,7 +70,7 @@ const PROJECTS = [
   {
     judul: "Blockchain Lab",
     deskripsi: "Visualisasi blockchain dan kriptografi.",
-    kategori: "Blockchain & Kriptografi",
+    kategori: "Blockchain & Kriptografi, Pembelajaran",
     tags: ["HTML", "CSS", "JavaScript"],
     status: "selesai",
     link: "https://wiruu31.github.io/blockchain-lab/blockchain.html"
@@ -77,7 +78,7 @@ const PROJECTS = [
   {
     judul: "Portofolio",
     deskripsi: "Website portofolio pribadi saya (Website Saat Ini).",
-    kategori: "Web App",
+    kategori: "Website",
     tags: ["HTML", "CSS", "JavaScript"],
     status: "selesai",
     link: "https://wiruu31.github.io/portfolio-wiru/"
@@ -89,16 +90,30 @@ const PROJECTS = [
     tags: ["HTML", "CSS", "JavaScript", "API", "Data"],
     status: "selesai",
     link: "https://github.com/wiruu31/nexus-hub.git",
-    unggulan: true
   },
   {
     judul: "Vault Keep",
     deskripsi: "Password manager pribadi.",
-    kategori: "Web App,",
+    kategori: "Web App",
     tags: ["HTML", "CSS", "JavaScript", "Data"],
     status: "selesai",
     link: "https://github.com/wiruu31/vault-keep.git",
-    unggulan: true
+  },
+  {
+    judul: "Hitung.in",
+    deskripsi: "Kalkulator rumus keuangan dan ekonomi dalam satu web app.",
+    kategori: "Web App, Alat",
+    tags: ["HTML", "CSS", "JavaScript"],
+    status: "selesai",
+    link: "https://wiruu31.github.io/hitung.in/hitung.html",
+  },
+  {
+    judul: "Genesis",
+    deskripsi: "Web app interaktif berbahasa Indonesia untuk belajar Bitcoin, blockchain, dan kriptografi Bitcoin.",
+    kategori: "Web App, Pembelajaran",
+    tags: ["HTML", "CSS", "JavaScript"],
+    status: "selesai",
+    link: "https://wiruu31.github.io/genesis/genesis.html",
   }
 ];
 
