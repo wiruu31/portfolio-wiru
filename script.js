@@ -127,22 +127,22 @@ const SKILLS = [
       { nama: "HTML & CSS",     level: "Menengah" },
       { nama: "JavaScript",     level: "Menengah" },
       { nama: "Python",         level: "Dasar" },
-      { nama: "AI & Prompting", level: "Menengah" }
+      { nama: "AI & Prompting", level: "Dasar" }
     ]
   },
   {
     grup: "Musik",
     items: [
-      { nama: "Gitar Klasik", level: "Mahir" },
-      { nama: "Bernyanyi",    level: "Menengah" }
+      { nama: "Gitar Klasik", level: "Menengah" },
+      { nama: "Bernyanyi",    level: "Dasar" }
     ]
   },
   {
     grup: "Ekonomi",
     items: [
-      { nama: "Akuntansi",      level: "Menengah" },
+      { nama: "Akuntansi",      level: "Dasar" },
       { nama: "Mikroekonomi",   level: "Dasar" },
-      { nama: "Makroekonomi",   level: "Menengah" }
+      { nama: "Makroekonomi",   level: "Dasar" }
     ]
   },
   {
