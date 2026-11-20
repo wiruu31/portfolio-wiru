@@ -114,6 +114,14 @@ const PROJECTS = [
     tags: ["HTML", "CSS", "JavaScript"],
     status: "selesai",
     link: "https://wiruu31.github.io/genesis/genesis.html",
+  },
+  {
+    judul: "Kelora",
+    deskripsi: "Class Management Platform",
+    kategori: "Web App, Pembelajaran",
+    tags: ["HTML", "CSS", "JavaScript"],
+    status: "proses",
+    link: "",
   }
 ];
 
